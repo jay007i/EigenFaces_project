@@ -1,0 +1,8 @@
+# config.py
+
+N_COMPONENTS = 100
+TEST_SIZE = 0.25
+RANDOM_STATE = 42
+SVM_C = 10
+SVM_KERNEL = "rbf"
+SVM_GAMMA = "scale"
