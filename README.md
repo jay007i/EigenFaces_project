@@ -61,3 +61,10 @@ that reduces 4096-dimensional face data to just 100 dimensions and achieves
 2. Install dependencies
 3. Run the project
 
+## Technologies Used
+- Python
+- JavaScript
+- HTML
+- CSS
+- Machine Learning
+
