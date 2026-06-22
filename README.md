@@ -13,6 +13,18 @@ that reduces 4096-dimensional face data to just 100 dimensions and achieves
 - Achieves 96% accuracy on unseen faces
 - Visualizes eigenfaces, reconstructions, and 2D projections
 
+## Learning Outcomes
+- Face recognition concepts
+- Image preprocessing
+- Principal Component Analysis (PCA)
+- Feature extraction
+- Computer vision fundamentals## Learning Outcomes
+- Face recognition concepts
+- Image preprocessing
+- Principal Component Analysis (PCA)
+- Feature extraction
+- Computer vision fundamentals
+
 ## 🛠️ Tech Stack
 - Python
 - NumPy
