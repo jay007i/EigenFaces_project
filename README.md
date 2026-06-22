@@ -49,5 +49,9 @@ that reduces 4096-dimensional face data to just 100 dimensions and achieves
 ### 2D PCA Projection
 ![2D Plot](images/2d_projection.png)
 
-## 🧮 How PCA Works (Brief)
-1.
+## Features
+- Easy to use
+- Fast performance
+- Responsive design
+- User friendly interface
+- Scalable architecture
