@@ -55,3 +55,9 @@ that reduces 4096-dimensional face data to just 100 dimensions and achieves
 - Responsive design
 - User friendly interface
 - Scalable architecture
+
+## Installation
+1. Clone the repository
+2. Install dependencies
+3. Run the project
+
